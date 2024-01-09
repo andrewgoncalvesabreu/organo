@@ -1,0 +1,15 @@
+.lista-suspensa label{
+    display: block;  /*Quebrar a linha*/
+    margin-bottom: 8px;  /*Margem para baixo*/
+    font-size: 24px;  /*Tamanho da fonte*/
+}
+
+.lista-suspensa select {
+    background-color: #fff;  /*Cor de fundo branca*/
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);  /*Um leve espalhamento de sombra*/
+    width: 100%;  /*100% da largura*/
+    border: 3px solid #C89C38;  
+    font-size: 24px;  /*Tamanho da fonte*/
+    padding: 24px;  /*Espaço entre suas bordas internas*/
+    box-sizing: border-box;  /*Faz com que não vaze os 100% e sim fique 100%*/
+}

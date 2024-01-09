@@ -1,0 +1,21 @@
+/*Medidas tiradas do figma*/
+
+.campo-texto {
+    margin: 24px 0;  /*Margem pra cima e pra baixo de 24px, e pros lados 0*/
+}
+
+.campo-texto label {
+    display: block;  /*Quebrar a linha*/
+    margin-bottom: 8px;  /*Margem para baixo*/
+    font-size: 24px;  /*Tamanho da fonte*/
+}
+
+.campo-texto input {
+    background-color: #fff;  /*Cor de fundo branca*/
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);  /*Um leve espalhamento de sombra*/
+    width: 100%;  /*100% da largura*/
+    border: 3px solid #C89C38;  /*Sem borda*/
+    font-size: 24px;  /*Tamanho da fonte*/
+    padding: 24px;  /*Espaço entre suas bordas internas*/
+    box-sizing: border-box;  /*Faz com que não vaze os 100% e sim fique 100%*/
+}
