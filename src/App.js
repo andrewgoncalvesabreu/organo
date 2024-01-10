@@ -15,8 +15,8 @@ function App() {
 
     {
       nome: 'Suporte',
-      corPrimaria: '#FF16AF',
-      corSecundaria: '#F48BE2'
+      corPrimaria: '#c50481',
+      corSecundaria: '#ff70e7'
     },
 
     {
