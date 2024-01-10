@@ -2,6 +2,7 @@
     text-align: center;
     padding: 32px;
     background-color: #d9f7e9;
+    background-image: url('../../../public/imagens/fundo.png');
 }
 
 .time h3 {
