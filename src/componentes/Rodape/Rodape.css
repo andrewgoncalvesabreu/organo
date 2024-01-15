@@ -4,7 +4,7 @@
     justify-content: space-between;
     color: #fff;
     font-weight: bold;
-    background: #78663C;
+    background-image: linear-gradient(to right, aqua, rgb(11, 87, 138));
 }
 
 .footer ul li {

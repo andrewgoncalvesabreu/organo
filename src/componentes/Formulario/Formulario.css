@@ -6,7 +6,7 @@
 
 .formulario form {
     max-width: 80%;
-    background-color: #edc975;
+    background-image: linear-gradient(to right, #d8b563, #e1be6e);
     border-radius: 20px;
     padding: 36px 64px;
     box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);

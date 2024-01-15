@@ -1,8 +1,9 @@
+import {IoIosCloseCircle} from 'react-icons/io'
 import './Colaborador.css';
 
 const Colaborador = ({nome, cargo, imagem, CorDeFundo, OutraCorDeFundo}) => {
     const textoNoNome = `Olá, meu nome é ${nome},`
-    const textoDoMain = `e meu main no league of legends é ${cargo}.`
+    const textoDoMain = `e meu main no League of Legends é ${cargo}.`
 
     return (
         <div className='colaborador'>
